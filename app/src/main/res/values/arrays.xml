@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="union">
+        <item>집게리아</item>
+        <item>kfc</item>
+        <item>모스버거</item>
+    </string-array>
+    <string-array name="unionalphabetname">
+        <item>crab</item>
+        <item>kfc</item>
+        <item>mosburger</item>
+    </string-array>
+    <string-array name="canspeakshopname">
+        <item>mosburger</item>
+    </string-array>
+    <string-array name="kfc">
+        <item>thisiskfc</item>
+        <item>kfcshort</item>
+        <item>kfcevent</item>
+        <item>kfcset</item>
+        <item>kfcchicken</item>
+        <item>kfcbuger</item>
+        <item>kfcside</item>
+        <item>kfcdrink</item>
+    </string-array>
+    <string-array name="kfcmenu">
+        <item>kfc입니다.</item>
+        <item>kfc</item>
+        <item>행사제품</item>
+        <item>세트</item>
+        <item>치킨</item>
+        <item>버거</item>
+        <item>사이드</item>
+        <item>음료</item>
+    </string-array>
+    <string-array name="kfcshoptag">
+        <item>store</item>
+        <item>shop_name</item>
+        <item>addr_div1</item>
+        <item>phone</item>
+        <item>old_addr1</item>
+        <item>sales_delivery_yn</item>
+        <item>shop_seq</item>
+    </string-array>
+
+    <string-array name="mosburger">
+        <item>thisismosburger</item>
+        <item>mosburgershort</item>
+        <item>mosburgernew</item>
+        <item>mosburgerburger</item>
+        <item>mosburgerriceburger</item>
+        <item>mosburgermorning</item>
+        <item>mosburgerside</item>
+        <item>mosburgerdessert</item>
+        <item>mosburgerdrink</item>
+    </string-array>
+    <string-array name="mosburgermenu">
+        <item>모스버거입니다</item>
+        <item>모스버거</item>
+        <item>신메뉴</item>
+        <item>버거</item>
+        <item>라이스버거</item>
+        <item>아침메뉴</item>
+        <item>사이드</item>
+        <item>디저트</item>
+        <item>음료</item>
+    </string-array>
+    <string-array name="mosburgershoptag">
+        <item>store</item>
+        <item>shop_name</item>
+        <item>addr_div1</item>
+        <item>phone</item>
+        <item>old_addr1</item>
+        <item>sales_delivery_yn</item>
+        <item>shop_seq</item>
+    </string-array>
+
+</resources>

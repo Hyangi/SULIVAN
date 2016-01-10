@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mosburger>
+    <store>
+        <shop_seq>1</shop_seq>
+        <addr_div1>인천</addr_div1>
+        <addr_div2>인천</addr_div2>
+        <shop_code>1</shop_code>
+        <shop_name>인천공항점</shop_name>
+        <post_no>22382</post_no>
+        <old_addr1>인천광역시 중구 운서동 2840 인천공항 3층 여객터미널</old_addr1>
+        <new_addr1>인천광역시 중구 공항로 272 인천공항 3층 여객터미널 </new_addr1>
+        <phone>032-743-5837</phone>
+        <sales_time>06:00 ~ 22:00</sales_time>
+        <shop_location></shop_location>
+        <map_url1>37.446960</map_url1>
+        <map_url2>126.453853</map_url2>
+        <shop_use_div>i</shop_use_div>
+        <use_area>i</use_area>
+        <clean_day></clean_day>
+        <sales_delivery_yn>N</sales_delivery_yn>
+        <sales_24_yn>N</sales_24_yn>
+        <sales_wifi_yn>i</sales_wifi_yn>
+        <sales_order_group_yn>i</sales_order_group_yn>
+        <sales_park_yn>i</sales_park_yn>
+        <sales_subway_yn>i</sales_subway_yn>
+        <sales_mart_in_yn>i</sales_mart_in_yn>
+    </store>
+    <store>
+        <shop_seq>2</shop_seq>
+        <addr_div1>안양</addr_div1>
+        <addr_div2>안양</addr_div2>
+        <shop_code>1</shop_code>
+        <shop_name>안양롯데점</shop_name>
+        <post_no>13992</post_no>
+        <old_addr1>경기도 안양시 만안구 안양동 88-1 롯데백화점안양점 지하1층</old_addr1>
+        <new_addr1>경기도 안양시 만안구 만안로 232 롯데백화점안양점 지하1층</new_addr1>
+        <phone>031-463-2046</phone>
+        <sales_time>10:30 ~ 20:00</sales_time>
+        <shop_location></shop_location>
+        <map_url1>37.401677</map_url1>
+        <map_url2>126.922903</map_url2>
+        <shop_use_div>i</shop_use_div>
+        <use_area>i</use_area>
+        <clean_day></clean_day>
+        <sales_delivery_yn>N</sales_delivery_yn>
+        <sales_24_yn>N</sales_24_yn>
+        <sales_wifi_yn>i</sales_wifi_yn>
+        <sales_order_group_yn>i</sales_order_group_yn>
+        <sales_park_yn>i</sales_park_yn>
+        <sales_subway_yn>i</sales_subway_yn>
+        <sales_mart_in_yn>i</sales_mart_in_yn>
+    </store>
+    <store>
+        <shop_seq>3</shop_seq>
+        <addr_div1>부산</addr_div1>
+        <addr_div2>부산</addr_div2>
+        <shop_code>1</shop_code>
+        <shop_name>광복롯데점</shop_name>
+        <post_no>48944</post_no>
+        <old_addr1>부산광역시 중구 중앙대로 2 광복롯데백화점 아쿠아몰 지하1층</old_addr1>
+        <new_addr1>부산광역시 중구 중앙동 7가 20-1 광복롯데백화점 아쿠아몰 지하1층</new_addr1>
+        <phone>051-678-4148</phone>
+        <sales_time>10:30 ~ 22:00</sales_time>
+        <shop_location></shop_location>
+        <map_url1>35.098484</map_url1>
+        <map_url2>129.0366817</map_url2>
+        <shop_use_div>i</shop_use_div>
+        <use_area>i</use_area>
+        <clean_day></clean_day>
+        <sales_delivery_yn>N</sales_delivery_yn>
+        <sales_24_yn>N</sales_24_yn>
+        <sales_wifi_yn>i</sales_wifi_yn>
+        <sales_order_group_yn>i</sales_order_group_yn>
+        <sales_park_yn>i</sales_park_yn>
+        <sales_subway_yn>i</sales_subway_yn>
+        <sales_mart_in_yn>i</sales_mart_in_yn>
+    </store>
+    <store>
+        <shop_seq>4</shop_seq>
+        <addr_div1>서울</addr_div1>
+        <addr_div2>서울</addr_div2>
+        <shop_code>1</shop_code>
+        <shop_name>잠실롯데점</shop_name>
+        <post_no>05554</post_no>
+        <old_addr1>서울시 송파구 잠실동 40-1 롯데월드 지하 1층 프리미엄 푸드몰</old_addr1>
+        <new_addr1>서울시 송파구 올림픽로 240 롯데월드 지하 1층 프리미엄 푸드몰</new_addr1>
+        <phone>02-2143-1825</phone>
+        <sales_time>10:30 ~ 22:00</sales_time>
+        <shop_location></shop_location>
+        <map_url1>37.512160</map_url1>
+        <map_url2>127.099355</map_url2>
+        <shop_use_div>i</shop_use_div>
+        <use_area>i</use_area>
+        <clean_day></clean_day>
+        <sales_delivery_yn>N</sales_delivery_yn>
+        <sales_24_yn>N</sales_24_yn>
+        <sales_wifi_yn>i</sales_wifi_yn>
+        <sales_order_group_yn>i</sales_order_group_yn>
+        <sales_park_yn>i</sales_park_yn>
+        <sales_subway_yn>i</sales_subway_yn>
+        <sales_mart_in_yn>i</sales_mart_in_yn>
+    </store>
+    <store>
+        <shop_seq>5</shop_seq>
+        <addr_div1>서울</addr_div1>
+        <addr_div2>서울</addr_div2>
+        <shop_code>1</shop_code>
+        <shop_name>강남역점</shop_name>
+        <post_no>06615</post_no>
+        <old_addr1>서울시 서초구 서초4동 1317-14 1층</old_addr1>
+        <new_addr1>서울시 서초구 서초대로77길 5 1층</new_addr1>
+        <phone>02-599-1140</phone>
+        <sales_time>08:00 ~ 23:00</sales_time>
+        <shop_location></shop_location>
+        <map_url1>37.401677</map_url1>
+        <map_url2>126.922903</map_url2>
+        <shop_use_div>i</shop_use_div>
+        <use_area>i</use_area>
+        <clean_day></clean_day>
+        <sales_delivery_yn>N</sales_delivery_yn>
+        <sales_24_yn>N</sales_24_yn>
+        <sales_wifi_yn>i</sales_wifi_yn>
+        <sales_order_group_yn>i</sales_order_group_yn>
+        <sales_park_yn>i</sales_park_yn>
+        <sales_subway_yn>i</sales_subway_yn>
+        <sales_mart_in_yn>i</sales_mart_in_yn>
+    </store>
+    <store>
+        <shop_seq>6</shop_seq>
+        <addr_div1>서울</addr_div1>
+        <addr_div2>서울</addr_div2>
+        <shop_code>1</shop_code>
+        <shop_name>신촌현대점</shop_name>
+        <post_no>03789</post_no>
+        <old_addr1>서울시 서대문구 창천동 30-33 현대백화점 유플렉스 지하 2층</old_addr1>
+        <new_addr1>서울시 서대문구 신촌로 83 현대백화점 유플렉스 지하 2층</new_addr1>
+        <phone>02-3145-1791</phone>
+        <sales_time>08:00 ~ 22:00</sales_time>
+        <shop_location></shop_location>
+        <map_url1>37.556094</map_url1>
+        <map_url2>126.935792</map_url2>
+        <shop_use_div>i</shop_use_div>
+        <use_area>i</use_area>
+        <clean_day></clean_day>
+        <sales_delivery_yn>N</sales_delivery_yn>
+        <sales_24_yn>N</sales_24_yn>
+        <sales_wifi_yn>i</sales_wifi_yn>
+        <sales_order_group_yn>i</sales_order_group_yn>
+        <sales_park_yn>i</sales_park_yn>
+        <sales_subway_yn>i</sales_subway_yn>
+        <sales_mart_in_yn>i</sales_mart_in_yn>
+    </store>
+    <store>
+        <shop_seq>7</shop_seq>
+        <addr_div1>서울</addr_div1>
+        <addr_div2>서울</addr_div2>
+        <shop_code>1</shop_code>
+        <shop_name>센트럴시티점</shop_name>
+        <post_no>06546</post_no>
+        <old_addr1>서울시 서초구 반포4동 19-3 센트럴시티 1층</old_addr1>
+        <new_addr1>서울시 서초구 신반포로 176 센트럴시티 1층</new_addr1>
+        <phone>02-3478-2585</phone>
+        <sales_time>08:00 ~ 23:00</sales_time>
+        <shop_location></shop_location>
+        <map_url1>37.504181</map_url1>
+        <map_url2>127.003037</map_url2>
+        <shop_use_div>i</shop_use_div>
+        <use_area>i</use_area>
+        <clean_day></clean_day>
+        <sales_delivery_yn>N</sales_delivery_yn>
+        <sales_24_yn>N</sales_24_yn>
+        <sales_wifi_yn>i</sales_wifi_yn>
+        <sales_order_group_yn>i</sales_order_group_yn>
+        <sales_park_yn>i</sales_park_yn>
+        <sales_subway_yn>i</sales_subway_yn>
+        <sales_mart_in_yn>i</sales_mart_in_yn>
+    </store>
+    <store>
+        <shop_seq>8</shop_seq>
+        <addr_div1>서울</addr_div1>
+        <addr_div2>서울</addr_div2>
+        <shop_code>1</shop_code>
+        <shop_name>명동중앙점</shop_name>
+        <post_no>04534</post_no>
+        <old_addr1>서울시 중구 을지로2가 199-8</old_addr1>
+        <new_addr1>서울시 중구 명동9길 37 199-8</new_addr1>
+        <phone>02-779-7416</phone>
+        <sales_time>08:00 ~ 23:00</sales_time>
+        <shop_location></shop_location>
+        <map_url1>37.565368</map_url1>
+        <map_url2>126.984107</map_url2>
+        <shop_use_div>i</shop_use_div>
+        <use_area>i</use_area>
+        <clean_day></clean_day>
+        <sales_delivery_yn>N</sales_delivery_yn>
+        <sales_24_yn>N</sales_24_yn>
+        <sales_wifi_yn>i</sales_wifi_yn>
+        <sales_order_group_yn>i</sales_order_group_yn>
+        <sales_park_yn>i</sales_park_yn>
+        <sales_subway_yn>i</sales_subway_yn>
+        <sales_mart_in_yn>i</sales_mart_in_yn>
+    </store>
+    <store>
+        <shop_seq>9</shop_seq>
+        <addr_div1>서울</addr_div1>
+        <addr_div2>서울</addr_div2>
+        <shop_code>1</shop_code>
+        <shop_name>건대롯데점</shop_name>
+        <post_no>05065</post_no>
+        <old_addr1>서울시 광진구 자양동 227-342 건대롯데백화점 지하 1층</old_addr1>
+        <new_addr1>서울시 광진구 능동로 92 건대롯데백화점 지하 1층</new_addr1>
+        <phone>02-2218-3037</phone>
+        <sales_time>10:30 ~ 22:00</sales_time>
+        <shop_location></shop_location>
+        <map_url1>37.538831</map_url1>
+        <map_url2>127.071078</map_url2>
+        <shop_use_div>i</shop_use_div>
+        <use_area>i</use_area>
+        <clean_day></clean_day>
+        <sales_delivery_yn>N</sales_delivery_yn>
+        <sales_24_yn>N</sales_24_yn>
+        <sales_wifi_yn>i</sales_wifi_yn>
+        <sales_order_group_yn>i</sales_order_group_yn>
+        <sales_park_yn>i</sales_park_yn>
+        <sales_subway_yn>i</sales_subway_yn>
+        <sales_mart_in_yn>i</sales_mart_in_yn>
+    </store>
+    <store>
+        <shop_seq>10</shop_seq>
+        <addr_div1>서울</addr_div1>
+        <addr_div2>서울</addr_div2>
+        <shop_code>1</shop_code>
+        <shop_name>강남구청역점</shop_name>
+        <post_no>06060</post_no>
+        <old_addr1>서울시 강남구 논현동 118-16 HOSIGI타워(구 M타워) 1층</old_addr1>
+        <new_addr1>서울시 강남구 학동로 337 HOSIGI타워(구 M타워) 1층</new_addr1>
+        <phone>02-543-1053</phone>
+        <sales_time>08:00 ~ 23:00</sales_time>
+        <shop_location></shop_location>
+        <map_url1>37.517037</map_url1>
+        <map_url2>127.039895</map_url2>
+        <shop_use_div>i</shop_use_div>
+        <use_area>i</use_area>
+        <clean_day></clean_day>
+        <sales_delivery_yn>N</sales_delivery_yn>
+        <sales_24_yn>N</sales_24_yn>
+        <sales_wifi_yn>i</sales_wifi_yn>
+        <sales_order_group_yn>i</sales_order_group_yn>
+        <sales_park_yn>i</sales_park_yn>
+        <sales_subway_yn>i</sales_subway_yn>
+        <sales_mart_in_yn>i</sales_mart_in_yn>
+    </store>
+</mosburger>
